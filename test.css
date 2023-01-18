@@ -1,0 +1,17 @@
+body{
+    margin-left: 20%;
+    font-size: 25px;
+}
+#submit{
+    margin-left: 30%;
+    font-size: 25px;
+}
+#results{
+    margin-left: 10%;
+    font-size: 40px;
+    border: solid;
+}
+#name{
+    margin-left: 30%;
+    font-size: 70px;
+}
