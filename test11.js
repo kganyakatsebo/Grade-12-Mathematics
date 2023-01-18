@@ -2,7 +2,7 @@ window.alert("You are about to write Grade 11 Physics Test 1!")
 window.alert("You will be locked out if you try to reload the page")
 let name = window.prompt("Please enter your name:")
 let pin = window.prompt("Enter an entry code provided by your tutor: ")
-while(!(pin=="Jake12")){
+while(!(pin=="James12")){
     window.alert("Incorrect entry code")
     pin = window.prompt("Enter an entry code provided by your tutor: ")
 }
